@@ -30,8 +30,8 @@ h3{
     margin-top: 100px;
     color: white;
     background-color: black;
-    position: relative;
-    top: 230px;
+    position: absolute;
+    top: 300px;
     background-size: cover;
 }
 .imagen1{
